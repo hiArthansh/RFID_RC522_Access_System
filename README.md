@@ -1,4 +1,4 @@
-# RFID Door Access Control System
+# RFID Access Control System
 
 ## Overview
 This project implements a secure RFID-based door access system using Arduino and MFRC522 RFID reader.
